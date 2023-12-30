@@ -116,4 +116,4 @@ Die verwendeten Grafiken sind entweder dem Originalspiel nachempfunden und selbs
 ▷ Musik von Ronald Kah, [Web](https://ronaldkah.de)
 
 ## Lizenz
-Dieses Projekt ist mit der [MIT-Lizenz]() lizensiert.
+Dieses Projekt ist mit der [MIT-Lizenz](https://github.com/RedLion8399/Scratch_Hot_air_ballon/blob/master/LICENSE) lizensiert.
