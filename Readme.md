@@ -2,13 +2,20 @@
 Einige langjährige GitHub Nutzer würden mich für diesen Gebrauch der Plattform stark kritisieren. Ich bin mir dessen bewusst, das einige von mir genuzte Funktionen von GitHub im speziellen, wie z.B. die Issuedokumentation und allgemeine Git Funktionen nicht so gedacht sind, wie Ich sie hier genutzt habe. Unter [Probleme](#probleme) gehe ich teilweise näher darauf ein, da die spezielle Situatione diese Art der Verwendung nahelegt.
 
 ## Inhaltsverzeichniss
-- [Projektinformationen](#projektinformationen)
-- [Inspiration](#inspiration)
-- [Funktionen](#funktionen)
-- [Instalation / Anwendung](#instalation--anwendung)
-- [Probleme](#probleme)
-- [Danksagung](#danksagung)
-- [Lizenz](#lizenz)
+- [Scratch Heißluftballon](#scratch-heißluftballon)
+  - [Inhaltsverzeichniss](#inhaltsverzeichniss)
+  - [Projektinformationen](#projektinformationen)
+  - [Inspiration](#inspiration)
+  - [Funktionen](#funktionen)
+    - [Einstellungen](#einstellungen)
+    - [Spielablauf](#spielablauf)
+    - [Spielende](#spielende)
+  - [Instalation / Anwendung](#instalation--anwendung)
+  - [Probleme](#probleme)
+    - [Speicherung und Versionierung](#speicherung-und-versionierung)
+    - [Eigenheiten Im Programmablauf](#eigenheiten-im-programmablauf)
+  - [Danksagung](#danksagung)
+  - [Lizenz](#lizenz)
 
 ## Projektinformationen
 Die Idee zu diesem Spiel stammt aus dem schulischen Informatikunterricht des Wahlpflichtkurses Informatik der Klassenstufe 9.  
